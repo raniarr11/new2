@@ -3,11 +3,7 @@
 Created on Tue Dec  5 13:54:11 2023
 
 @author: admin
-"""
-
-import numpy as np
-import pandas as pd
-import matplotlib.pyplot as plt
+t
 
 
 data=pd.read_csv('‏‏Salary_Data.csv')
